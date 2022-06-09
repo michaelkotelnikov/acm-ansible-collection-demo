@@ -1,3 +1,4 @@
 collections:
-- stolostron.core
-- kubernetes.core
+  - name: stolostron.core
+    version: 0.0.1-beta
+  - kubernetes.core
