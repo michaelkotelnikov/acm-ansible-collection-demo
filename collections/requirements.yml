@@ -1,3 +1,3 @@
 collections:
-- stolostron.cm
+- stolostron.core
 - kubernetes.core
